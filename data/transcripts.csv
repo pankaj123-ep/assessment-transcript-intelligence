@@ -1,0 +1,6 @@
+transcript_id,call_type,date,transcript
+T001,support,2026-01-01,Customer cannot log in after password reset.
+T002,support,2026-01-02,Customer reports billing issue and duplicate invoice.
+T003,sales,2026-01-03,Prospect says competitor pricing is cheaper.
+T004,product,2026-01-04,Customers requested new reporting feature.
+T005,support,2026-01-05,Application crash causing export issue.

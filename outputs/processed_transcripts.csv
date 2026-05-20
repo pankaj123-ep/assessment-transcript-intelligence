@@ -1,0 +1,6 @@
+transcript_id,call_type,date,transcript,cleaned_transcript,cluster_topic,primary_topic,rule_topics,sentiment_label,sentiment_score,summary
+T001,support,2026-01-01,Customer cannot log in after password reset.,customer cannot log in after password reset,0,Topic_0,['authentication'],NEUTRAL,0,customer cannot log in after password reset
+T002,support,2026-01-02,Customer reports billing issue and duplicate invoice.,customer reports billing issue and duplicate invoice,0,Topic_0,"['billing', 'bug_issue']",NEGATIVE,2,customer reports billing issue and duplicate invoice
+T003,sales,2026-01-03,Prospect says competitor pricing is cheaper.,prospect says competitor pricing is cheaper,2,Topic_2,"['pricing_objection', 'competitor']",NEUTRAL,0,prospect says competitor pricing is cheaper
+T004,product,2026-01-04,Customers requested new reporting feature.,customers requested new reporting feature,3,Topic_3,['feature_request'],NEUTRAL,0,customers requested new reporting feature
+T005,support,2026-01-05,Application crash causing export issue.,application crash causing export issue,1,Topic_1,['bug_issue'],NEGATIVE,2,application crash causing export issue
